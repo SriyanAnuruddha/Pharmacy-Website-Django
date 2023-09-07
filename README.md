@@ -4,8 +4,8 @@ This website is created specifically for a pharmacy. On this platform, customers
  
 ***
 ### Available Functionalities ###
-- CRUD functionality manage to Medicines
-- Users can upload a medical prescription's image to identify medicines and add them to the cart.
+- CRUD functionality to manage Medicines
+- prescription Upload Function ( Users can upload their medical prescription images to the website, and the website will automatically identify the medicines )
 - add to cart functionality 
 - user management via admin interface
 - user login
